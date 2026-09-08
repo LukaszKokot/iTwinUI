@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.21.4
+
+### Patch Changes
+
+- [#2699](https://github.com/iTwin/iTwinUI/pull/2699): Updated `Checkbox` symbols to match latest StrataKit symbols within theme bridge.
+
 ## 3.21.3
 
 ### Patch Changes
